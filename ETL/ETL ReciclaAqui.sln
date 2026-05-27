@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL ReciclaAqui", "ETL ReciclaAqui\ETL ReciclaAqui.dtproj", "{202A5192-0453-010F-6A07-B945092A8C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202A5192-0453-010F-6A07-B945092A8C76}.Development|Default.ActiveCfg = Development
+		{202A5192-0453-010F-6A07-B945092A8C76}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D953239-0AFB-4E6B-B4C5-29C9EB0281E5}
+	EndGlobalSection
+EndGlobal
